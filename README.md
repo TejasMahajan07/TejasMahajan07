@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React , NextJs , DSA**
 
-- 📫 How to reach me **tejasm388@gmail.com**
+- 📫 How to reach me **tjmahajan777@gmail.com**
 </div>
 
 
