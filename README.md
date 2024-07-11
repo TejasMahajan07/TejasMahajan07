@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning **NextJs, ThreeJs**
 
 - 💬 Ask me about **React , NextJs , DSA**
+  
+- Main Github :- **https://github.com/Tejas-Mahajan1**
 
 - 📫 How to reach me **tjmahajan777@gmail.com**
 </div>
